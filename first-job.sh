@@ -1,0 +1,5 @@
+#!/bin/bash
+echo "Hello git"
+echo "test"
+mkdir "alpha"
+touch ./alpha/alpha.txt
