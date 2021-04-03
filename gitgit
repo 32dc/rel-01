@@ -1,5 +1,4 @@
 echo "Hello git "
 echo "test"
 mkdir alpha
-cd alpha
-touch alpha.txt
+touch ./alpha/alpha.txt
