@@ -1,4 +1,4 @@
 echo "Hello git "
 cd /
-mkdir alpha
-touch ./alpha/alpha.txt
+sudo mkdir alpha
+sudo touch ./alpha/alpha.txt
