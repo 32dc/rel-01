@@ -1,3 +1,5 @@
 #!/bin/bash
 # comment
-ssh remote-server 'hostname -I; cat /proc/loadavg; free -m'
+echo "server-info.sh"
+#ssh remote-server 'hostname -I; cat /proc/loadavg; free -m'
+chmod +x server-info.sh
