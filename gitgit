@@ -1,4 +1,4 @@
 echo "Hello git "
-echo "test"
+cd /
 mkdir alpha
 touch ./alpha/alpha.txt
