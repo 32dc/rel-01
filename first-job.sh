@@ -1,5 +1,6 @@
 #!/bin/bash
 echo "Hello git"
 echo "test"
-mkdir "alpha"
-touch ./alpha/alpha.txt
+sudo cd ~
+sudo mkdir "alpha1"
+sudo touch ./alpha1/alpha1.txt
